@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Рафаэль Гулиев](https://up.htmlacademy.ru/javascript/14/user/472651).
-* Наставник: `Неизвестно`.
+* Наставник: `Артём Коновалов`.
 
 ---
 
